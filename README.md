@@ -1,4 +1,4 @@
-[![MasterHead]([https://img.pikbest.com/backgrounds/20190726/blue-business-technology-gif-background_2758561.jpg!sw800](https://cdn.sanity.io/images/tlr8oxjg/production/b2f77e26f28685a51fb7686a39d97a526e03edc3-1456x816.png?w=3840&q=100&fit=clip&auto=format))]()
+[![MasterHead](https://img.pikbest.com/backgrounds/20190726/blue-business-technology-gif-background_2758561.jpg!sw800](https://cdn.sanity.io/images/tlr8oxjg/production/b2f77e26f28685a51fb7686a39d97a526e03edc3-1456x816.png?w=3840&q=100&fit=clip&auto=format)]
 
 <h1 align="center">Hi 👋, I'm Kunal Mestry</h1>
 <h3 align="center">Full Stack Developer (US) | {JAVA Spring Boot, React.js}</h3>
